@@ -1,0 +1,112 @@
+.float-container{
+    background-color:   hsl(257, 40%, 49%);
+    background-image: url(images/bg-desktop.svg) ;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    display: inline;
+    height: 12cm;
+    width: 18cm;
+    margin: 2cm 0cm 0cm 2.5cm;
+}
+.float-img1{
+    height: 0.5cm;
+    width: 0.5cm;
+float: left;
+font-family: 'Open Sans', sans-serif;
+font-weight: 600;
+font-size: 15cm;
+color: white;
+
+}
+h4{
+    display: inline;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 35px;
+}
+
+nav{
+    height: 2cm;
+    margin: 1.5cm 0cm 0cm 3cm ;
+}
+.float-right{
+    width: 14cm;
+    height: 10cm;
+    float: right;
+    margin: 2cm 3cm 0cm 0cm;
+
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: white;
+    font-size: 40px;
+}
+
+h3{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: white;
+    font-size: 18px;
+}
+
+button{
+    border-radius: 25px ;
+    width: 6cm;
+    height: 1.4cm;
+    font-size: 20px;
+    background-color: blueviolet;
+    color: white;
+    border-color: rgba(255, 255, 255, 0);
+    box-shadow: 5px 5px 2px rgb(51, 23, 70);
+    cursor: pointer;
+    
+}
+
+button:hover{
+    background-color: rgb(213, 84, 185);
+}
+
+/* .logof{
+    height: 0.5cm;
+    width: 0.5cm;
+    align-items: right;
+    /* position: relative; */
+/* } */
+/* .logot{
+    height: 0.5cm;
+    width: 0.5cm;
+    align-items: right; */
+    /* position: relative;
+}
+.logoi{
+    height: 0.5cm;
+    width: 0.5cm;
+    align-items: right; */
+    /* position: relative; */
+/* }  */
+
+.logo{
+    text-align: right;
+    margin: 0cm 2cm 0cm 0cm;
+}
+
+.icon{
+    margin: 0% 1% 0%;
+    font-size: 30px;
+}
+
+.icon:hover
+{
+    color: rgb(213, 84, 185);
+
+}
+
+.icon1{
+    color: aliceblue;
+    font-size: 28px;
+}

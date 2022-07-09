@@ -1,0 +1,39 @@
+.container{
+
+    background-color:  hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+
+}
+
+.box{
+    margin: auto;
+    margin-top: 4cm;
+    width: 7cm;
+    height: 11cm;
+    background-color: white;
+    border-radius: 5%;
+}
+
+img{
+     border-radius: 5% ;
+     margin: 0.5cm 0.5cm 0cm ;
+     /* padding-left: 0.5cm; */
+     /* padding-right: 0.5cm; */
+    /* padding-top: 0.5cm;  */
+    width: 6cm;
+    height : 6cm;
+}
+
+h3{
+    padding-left: 0.cm;
+    
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+h5{
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
