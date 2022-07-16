@@ -1,0 +1,79 @@
+
+/* font-family: 'Lexend Deca', sans-serif; */
+
+/* font-family: 'Big Shoulders Display', cursive; */
+
+.float-container{
+    background-color: rgb(235, 228, 218);
+}
+.left{
+    float: left;
+    height: 10cm;
+    width: 4cm;
+    background-color: hsl(31, 77%, 52%);
+    margin: 5cm 0cm 0cm 12cm;
+    /* margin: 05cm 0cm 0cm 0cm; */
+    
+    text-align: left;
+    padding: 1cm 1cm 0cm 1cm ;
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 400;
+    font-size: 0.5cm;
+    border-radius: 10px 0px 0px 10px;
+
+}
+.center{
+    float: left;
+    height: 10cm;
+    width: 4cm;
+    background-color: hsl(184, 100%, 22%);
+    margin: 05cm 0cm 0cm 0cm;
+    
+    text-align: left;
+    padding: 1cm 1cm 0cm 1cm ;
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 400;
+    font-size: 0.5cm;
+
+
+    
+}
+.right{
+    float: left;
+    height: 10cm;
+    width: 4cm;
+    background-color: hsl(179, 100%, 13%);
+    margin: 05cm 0cm 0cm 0cm;
+    text-align: left;
+    padding: 1cm 1cm 0cm 1cm ;
+    color: white;
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 400;
+    font-size: 0.5cm;
+    border-radius: 0px 10px 10px 0px;
+}
+
+button{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0);
+    height: 1cm;
+    width: 3cm;
+    border-radius: 5cm ;
+    border-color: white;
+    color: white;
+    cursor:pointer;
+    box-shadow: 1px 0px 5px white;
+    
+}    
+
+button:hover {
+
+}
+
+h2{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
